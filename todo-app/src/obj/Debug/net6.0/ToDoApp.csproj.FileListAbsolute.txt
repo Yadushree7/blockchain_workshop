@@ -1,0 +1,2 @@
+C:\Users\Yadushree.E\OneDrive\Desktop\todo-app\src\obj\Debug\net6.0\ToDoApp.csproj.AssemblyReference.cache
+C:\Users\Yadushree.E\OneDrive\Desktop\todo-app\src\obj\Debug\net6.0\ToDoApp.GeneratedMSBuildEditorConfig.editorconfig
