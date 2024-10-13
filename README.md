@@ -32,5 +32,6 @@ Now that you're set up, you're ready to start the quest! Follow the steps as out
 
 ## Preview of ToDo dApp
 
-![image](assets/Developer_TODO_Landing_Page.png)
+![Screenshot (14)](https://github.com/user-attachments/assets/0f1b630e-b625-46ab-b73d-24cca649d866)
+
 
